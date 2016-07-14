@@ -28,11 +28,14 @@ The following buttons corresponds to specific product status:
   *  **Received** - this button allows the customer to inform the breeder that the product has been received or delivered to the customer's farm. This should be clicked to avoid confusion to both parties.
   *  **Rate** - this button allows the customer to rate the services of the breeder. This button will only display if both breeder and customer have already clicked the receive button.
 
-The following statuses indicates the current state of the product you have added to your swine cart. The icons' colors changes from gray (inactive) to green (active):
+**Manage Orders**
+The following statuses indicates the current state of the product the customer have added to their swine cart. The icons' colors changes from gray (inactive) to green (active):
    * **Request** - this status shows if the product has already been requested and the breeder has been notified.
-   * **Reserve** - this 
-   * **Deliver** - Lorem ipsum
-   * **Paid** - Lorem ipsum
+   * **Reserve** - this status shows if the product requested by the customer has been approved by the breeder.
+   * **Deliver** - this status shows if the product is on its way to the customer's farm.
+   * **Paid** - this status shows if the customer has paid the product.
+
+**Manage Transaction History** - this function allows the customers to view their past transactions with the breeders.
 
 
 Go back to [Documentation] (documentation.md)
