@@ -24,16 +24,16 @@ This system aims to improve the swine breeding and marketing industry through co
 
 ####Definition of Terms
 
-* Swine - Lorem ipsum
-* Boar - Lorem ipsum
-* Sow - Lorem ipsum
-* Breeder - Lorem ipsum
-* Customer - Lorem ipsum
-* E-Commerce - Lorem ipsum
-* ICS - Lorem ipsum
-* UPLB PCAARRD - Lorem ipsum
-* ASBAP - Lorem ipsum
-* BAI - Lorem ipsum
+* Swine - is a generic term for "pigs"
+* Boar - is the term for non-castrated male swine
+* Sow - is the term for adult female swine
+* Breeder - is a type of swine that is capable of reproduction
+* Customer - is the term for the consumer or buyer of swine
+* E-Commerce - or electronic commerce; trading or buying of services or products through the internet
+* ICS - or Institute of Computer Science; blah blah with degree programs of computer science and information technology
+* UPLB PCAARRD - or University of the Philippines Los Banos Philippine Council for Agriculture, Aquatic and Natural Resources Research                  and Development; the partnership of UPLB and PCAARRD for blah blah
+* ASBAP - or Accredited Swine Breeders Association of the Philippines; 
+* BAI - or Bureau of Animal Industry;
 
 ####References
 
