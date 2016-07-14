@@ -8,11 +8,11 @@ The customer is the type of user that buys the products.
 * Swine - is a generic term for "pigs"
 * Boar - is the term for non-castrated male swine
 * Sow - is the term for adult female swine
-* Relevance
-* Age
-* Backfat Thickness
-* Feed Conversion Ratio
-* Average Daily Gain
+* *Relevance*
+* *Age*
+* *Backfat Thickness*
+* *Feed Conversion Ratio*
+* *Average Daily Gain*
 
 ###Functions
 
