@@ -23,14 +23,14 @@ The customer is the type of user that buys the products.
  
 The following buttons corresponds to specific product status:
   *  **Request** - this button allows the customer to request for a product already added in the swine cart. This should be clicked to inform the breeder that a customer has requested for their product.
-  *  **Remove** - this button allows the customer to remove a product from their swine cart. This is helpful incase the customer has added the wrong product.
+  *  **Remove** - this button allows the customer to remove a product from their swine cart. This is helpful in case the customer has added the wrong product.
   *  **Message** - this button allows the customer to negotiate with the breeder once the product has been reserved.
   *  **Received** - this button allows the customer to inform the breeder that the product has been received or delivered to the customer's farm. This should be clicked to avoid confusion to both parties.
   *  **Rate** - this button allows the customer to rate the services of the breeder. This button will only display if both breeder and customer have already clicked the receive button.
 
-**Update Statuses**
-   * **Request** - this function has 
-   * **Reserve** - Lorem ipsum
+The following statuses indicates the current state of the product you have added to your swine cart. The icons' colors changes from gray (inactive) to green (active):
+   * **Request** - this status shows if the product has already been requested and the breeder has been notified.
+   * **Reserve** - this 
    * **Deliver** - Lorem ipsum
    * **Paid** - Lorem ipsum
 
