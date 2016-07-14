@@ -30,6 +30,9 @@ This system aims to improve the swine breeding and marketing industry through co
 * Breeder - Lorem ipsum
 * Customer - Lorem ipsum
 * E-Commerce - Lorem ipsum
-* 
+* ICS - Lorem ipsum
+* UPLB PCAARRD - Lorem ipsum
+* ASBAP - Lorem ipsum
+* BAI - Lorem ipsum
 
 ####References
