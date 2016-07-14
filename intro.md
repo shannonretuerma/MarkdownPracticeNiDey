@@ -24,10 +24,12 @@ This system aims to improve the swine breeding and marketing industry through co
 
 ####Definition of Terms
 
-* Swine - pig chuchu 
-* Boar
-* Sow
-* Breeder
-* Customer
+* Swine - Lorem ipsum
+* Boar - Lorem ipsum
+* Sow - Lorem ipsum
+* Breeder - Lorem ipsum
+* Customer - Lorem ipsum
+* E-Commerce - Lorem ipsum
+* 
 
 ####References
