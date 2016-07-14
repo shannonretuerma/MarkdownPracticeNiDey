@@ -7,10 +7,10 @@ This is the documentation for Swine E-Commerce PH. You can find the website here
 
 **Add Breeder** - Lorem ipsum
 
-**Delete User* - Lorem ipsum
+**Delete User** - Lorem ipsum
 
-*Accept Pending Breeder* - Lorem ipsum
+**Accept Pending Breeder** - Lorem ipsum
 
-*Block User*
+**Block User** - Lorem ipsum
 
-*Manage Pages*
+**Manage Pages** - Lorem ipsum
