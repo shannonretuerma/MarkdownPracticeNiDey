@@ -2,7 +2,7 @@
 This is the documentation for Swine E-Commerce PH. You can find the website here: INSERT WEB ADDRESS
 
 ##Breeder
-Lorem ipsum
+The breeder is the type of user who sells the products and should be accredited by ASBAP.
 
 ###Functions
 
@@ -14,7 +14,7 @@ Lorem ipsum
   *  **Update Product** - Lorem ipsum
 
 **Update Statuses**
-   * **Accept Requests** - Lorem ipsum
+   * **Accept Requests** - This status indicates that the customer has requested 
    * **Reject Requests** - Lorem ipsum
    * **Reserve** - Lorem ipsum
    * **Deliver** - Lorem ipsum
