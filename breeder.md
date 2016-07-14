@@ -6,11 +6,14 @@ Lorem ipsum
 
 ####Functions
 
-**Add Product** - Lorem ipsum
-
-**Delete Product** - Lorem ipsum
-
 **Manage Products**
+  *  **Add Product** - Lorem ipsum
+  *  **Delete Product** - Lorem ipsum
+  *  **Display Product** - Lorem ipsum
+  *  **Show Product** - Lorem ipsum
+  *  **Update Product** - Lorem ipsum
+
+**Manage Statuses**
    * **Accept Pending Requests** - Lorem ipsum
    * **Reject Pending Requests** - Lorem ipsum
    * **Secure Products for Reservation** - Lorem ipsum
