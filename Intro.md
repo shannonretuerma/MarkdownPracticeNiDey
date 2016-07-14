@@ -7,10 +7,15 @@ This is the documentation for Swine E-Commerce PH. You can find the website here
 * Swine Commerce PH was developed for 
 
 ####Scope
-
+* 
 
 ####Definition of Terms
-
+* Swine
+  * pig chuchu 
+* Boar
+* Sow
+* Breeder
+* Customer
 
 ####References
 
