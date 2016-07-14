@@ -30,10 +30,11 @@ This system aims to improve the swine breeding and marketing industry through co
 * Breeder - is a type of swine that is capable of reproduction
 * Customer - is the term for the consumer or buyer of swine
 * E-Commerce - or electronic commerce; trading or buying of services or products through the internet
-* ICS - or Institute of Computer Science; blah blah with degree programs of computer science and information technology
-* UPLB PCAARRD - or University of the Philippines Los Banos Philippine Council for Agriculture, Aquatic and Natural Resources Research                  and Development; the partnership of UPLB and PCAARRD for blah blah
-* ASBAP - or Accredited Swine Breeders Association of the Philippines; 
-* BAI - or Bureau of Animal Industry;
+* UPLB PCAARRD - or University of the Philippines Los Banos Philippine Council for Agriculture, Aquatic and Natural Resources Research
+and Development; the partnership of UPLB and PCAARRD for the development of the e-commerce system for breeder swine and boar semen
+* ICS - or Institute of Computer Science is under the College of Arts and Sciences (CAS) in UPLB with degree programs of computer science and information technology
+* ASBAP - or Accredited Swine Breeders Association of the Philippines is the association of swine breeders in the Philippines for accrediting piggery farms according to the set of criteria
+* BAI - or Bureau of Animal Industry is a government agency which regulates policies and programs for livestock and livestock produce
 
 ####References
 
