@@ -10,8 +10,7 @@ This is the documentation for Swine E-Commerce PH. You can find the website here
 * 
 
 ####Definition of Terms
-* Swine
-  * pig chuchu 
+* Swine - pig chuchu 
 * Boar
 * Sow
 * Breeder
