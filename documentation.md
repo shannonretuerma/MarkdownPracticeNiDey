@@ -2,7 +2,7 @@
 This is the documentation for Swine E-Commerce PH. You can find the website here: <INSERT WEB ADDRESS>
 
 ###Contents
-1. [Introduction] (www.github.com/inserttitle)
+1. [Introduction] (Swine-E-Commerce-PH/Intro.md)
   * Purpose
   * Scope
   * Definition of Terms
