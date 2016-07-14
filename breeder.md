@@ -13,10 +13,10 @@ Lorem ipsum
   *  **Show Product** - Lorem ipsum
   *  **Update Product** - Lorem ipsum
 
-**Manage Statuses**
-   * **Accept Pending Requests** - Lorem ipsum
-   * **Reject Pending Requests** - Lorem ipsum
-   * **Secure Products for Reservation** - Lorem ipsum
-   * **Secure Products for Delivery** - Lorem ipsum
-   * Payment
-   * Sold Products
+**Update Statuses**
+   * **Accept Requests** - Lorem ipsum
+   * **Reject Requests** - Lorem ipsum
+   * **Reserve** - Lorem ipsum
+   * **Deliver** - Lorem ipsum
+   * **Paid** - Lorem ipsum
+   * **Sold** - Lorem ipsum
