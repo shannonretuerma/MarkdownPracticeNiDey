@@ -14,3 +14,6 @@ This is the documentation for Swine E-Commerce PH. You can find the website here
 **Block User** - Lorem ipsum
 
 **Manage Pages** - Lorem ipsum
+
+
+Go back to [Documentation] (documentation.md)
