@@ -29,12 +29,10 @@ The following buttons corresponds to specific product status:
   *  **Rate** - this button allows the customer to rate the services of the breeder. This button will only display if both breeder and customer have already clicked the receive button.
 
 **Update Statuses**
-   * **Accept Requests** - Lorem ipsum
-   * **Reject Requests** - Lorem ipsum
+   * **Request** - this function has 
    * **Reserve** - Lorem ipsum
    * **Deliver** - Lorem ipsum
    * **Paid** - Lorem ipsum
-   * **Sold** - Lorem ipsum
 
 
 Go back to [Documentation] (documentation.md)
