@@ -37,7 +37,7 @@ and Development; the partnership of UPLB and PCAARRD for the development of the 
 * BAI - or Bureau of Animal Industry is a government agency which regulates policies and programs for livestock and livestock produce
 
 ####References
-Lorem, I. (2016). Lorem Ipsum. *Lorem Ipsum*, 11, 7-10.
+SpryMedia Ltd. (2008-2016). DataTables [Software]. Available from https://datatables.net/license/mit
 
 
 Go back to [Documentation] (documentation.md)
