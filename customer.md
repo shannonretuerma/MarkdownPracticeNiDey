@@ -6,21 +6,21 @@ The customer is the type of user that buys the products.
 
 ###Definition of Terms
 
-*Age*
+**Age**
 
-*Average Daily Gain*
+**Average Daily Gain**
 
-*Backfat Thickness*
+**Backfat Thickness**
 
-Boar - The term for non-castrated male swine.
+**Boar** - The term for non-castrated male swine.
 
-*Feed Conversion Ratio*
+**Feed Conversion Ratio**
 
-*Relevance*
+**Relevance**
 
-Swine - A generic term for "pigs".
+**Swine** - A generic term for "pigs".
 
-Sow - The term for adult female swine.
+**Sow** - The term for adult female swine.
 
 ###Functions
 
