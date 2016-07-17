@@ -24,17 +24,26 @@ This system aims to improve the swine breeding and marketing industry through co
 
 ####Definition of Terms
 
-* Swine - is a generic term for "pigs"
-* Boar - is the term for non-castrated male swine
-* Sow - is the term for adult female swine
-* Breeder - is a type of swine that is capable of reproduction
-* Customer - is the term for the consumer or buyer of swine
-* E-Commerce - or electronic commerce; trading or buying of services or products through the internet
-* UPLB PCAARRD - or University of the Philippines Los Banos Philippine Council for Agriculture, Aquatic and Natural Resources Research
+**ASBAP** - Accredited Swine Breeders Association of the Philippines is the association of swine breeders in the Philippines for accrediting piggery farms according to the set of criteria.
+
+**BAI** - Bureau of Animal Industry is a government agency which regulates policies and programs for livestock and livestock produce.
+
+**Breeder** - A type of user who sells the products such as boar, swine, sow, and semen.
+
+**Boar** - The term for non-castrated male swine.
+
+**Customer** - A type of user who consumes or buys the swine products.
+
+**E-Commerce** - Electronic commerce; trading or buying of services or products through the internet.
+
+**ICS** - Institute of Computer Science is under the College of Arts and Sciences (CAS) in UPLB with degree programs of computer science and information technology.
+
+**Swine** - A generic term for "pigs".
+
+**Sow** - The term for adult female swine.
+
+**UPLB PCAARRD** - University of the Philippines Los Banos Philippine Council for Agriculture, Aquatic and Natural Resources Research
 and Development; the partnership of UPLB and PCAARRD for the development of the e-commerce system for breeder swine and boar semen
-* ICS - or Institute of Computer Science is under the College of Arts and Sciences (CAS) in UPLB with degree programs of computer science and information technology
-* ASBAP - or Accredited Swine Breeders Association of the Philippines is the association of swine breeders in the Philippines for accrediting piggery farms according to the set of criteria
-* BAI - or Bureau of Animal Industry is a government agency which regulates policies and programs for livestock and livestock produce
 
 ####References
 SpryMedia Ltd. (2008-2016). DataTables [Software]. Available from https://datatables.net/license/mit
